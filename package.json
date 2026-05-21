@@ -1,0 +1,24 @@
+{
+  "name": "agoziem",
+  "version": "0.1.0-beta",
+  "description": "Avatar Camera App - Transform images with avatar filters (Style Filter & Face Swap modes)",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "vite build",
+    "test": "react-scripts test",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "axios": "^1.6.0",
+    "face-api.js": "^0.22.2"
+  },
+  "devDependencies": {
+    "vite": "^4.3.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
